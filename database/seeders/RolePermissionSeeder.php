@@ -21,7 +21,7 @@ class RolePermissionSeeder extends Seeder
                 'view_dashboard',
 
             ],
-            'merchant' => [
+            'user' => [
                 // Dashboard and general permissions
                 'view_dashboard',
             ],
